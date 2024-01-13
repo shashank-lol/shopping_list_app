@@ -21,7 +21,6 @@ class _GroceryListState extends State<GroceryList> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     _loadItems();
   }
